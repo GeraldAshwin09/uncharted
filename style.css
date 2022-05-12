@@ -1,0 +1,89 @@
+body{
+    background-image: url("p.webp");
+   
+    
+}
+
+.k
+{
+    font-family: cursive;
+    color: black;
+}
+
+#id
+{
+    background-color: beige;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 100px;
+}
+
+.l
+{
+    height: 150px;
+    width:250px;
+    border-radius: 100px;
+    margin-left: 200px;
+ 
+}
+.l:hover{
+    transform: rotate(10deg);
+}
+
+.v:hover{
+    transform: rotate(10deg);
+}
+
+.a
+{
+ list-style: none;
+
+ display:inline;
+}
+.b
+{
+    
+        clear: both;
+        display: inline-block;
+        overflow:hidden;
+        white-space:nowrap;
+}
+
+.t
+{
+    font-family: fantasy;
+    color: crimson;
+    border-style:double;
+    margin: 50px;
+    padding: 10px;
+    border-color: black;
+    border-width: 10px;
+}
+
+
+
+ glyphicon-print
+{
+   font-size:40px;
+}
+
+
+
+.v
+{
+    height: 150px;
+    width:250px;
+    border-radius: 100px;
+    margin: 50px;
+}
+
+#displaying
+{
+    height: 250px;
+    width:400px;
+   margin-left:30px;
+ border-style: ridge;
+ border-width: 5px;
+ border-color: black;
+}
+
